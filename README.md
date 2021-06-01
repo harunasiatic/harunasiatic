@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harunasiatic
-- 👀 I’m interested in machine learning,deep learning
+- 👀 I’m interested in machine learning , deep learning , 
 - 🌱 I’m currently learning kotlin, python ,java ,c# and c++ 
-- 📫 How to reach me harunyakan1@gmail.com
+- 📫 How to reach me harunyakan10@gmail.com
 
 
 <!---
